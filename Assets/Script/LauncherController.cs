@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript1 : MonoBehaviour
+public class LauncherController : MonoBehaviour
 {
     public KeyCode key;
     public Collider bola;
